@@ -127,7 +127,7 @@ npm start
 
 Your Name
 - GitHub: [@LingwalAnkit](https://github.com/LingwalAnkit)
-- LinkedIn: [Ankit Lingwal](https://linkedin.com/in/your-profile)
+- LinkedIn: [Ankit Lingwal](https://www.linkedin.com/in/ankit-lingwal-9b18472aa/)
 
 ## 🙏 Acknowledgments
 
